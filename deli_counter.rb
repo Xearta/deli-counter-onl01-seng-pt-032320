@@ -23,4 +23,5 @@ def now_serving(katz_deli)
   else
     person = katz_deli.shift
     puts "Currently serving #{person}."
+  end
 end
