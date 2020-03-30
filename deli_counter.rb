@@ -9,4 +9,5 @@ def line(katz_deli)
       message += "#{index}. #{name} "
     end
     return message
+  end
 end
